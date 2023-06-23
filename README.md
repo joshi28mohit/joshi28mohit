@@ -32,7 +32,7 @@
 
 <h3>👨‍💻 Languages</h3>
  <p>
-  <a href="#"><img alt="C" src="https://camo.githubusercontent.com/c1b36a4d54471f80468038b676fdc6c4a9c93e9728864c0019cdc8fb49e870f0/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f312f31382f435f50726f6772616d6d696e675f4c616e67756167652e7376672f36393570782d435f50726f6772616d6d696e675f4c616e67756167652e7376672e706e67"></a>
+  <a href="#"><img alt="C" src="https://camo.githubusercontent.com/c1b36a4d54471f80468038b676fdc6c4a9c93e9728864c0019cdc8fb49e870f0/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f312f31382f435f50726f6772616d6d696e675f4c616e67756167652e7376672f36393570782d435f50726f6772616d6d696e675f4c616e67756167652e7376672e706e67" width="10"></a>
   <a href="#"><img alt="HTML" src="https://img.shields.io/badge/-HTML-E34F26.svg?style=flat-square&logo=html5&logoColor=white"></a>
   <a href="#"><img alt="CSS" src="https://img.shields.io/badge/-CSS-264de4.svg?style=flat-square&logo=css3&logoColor=white"></a>
   <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black"></a>
