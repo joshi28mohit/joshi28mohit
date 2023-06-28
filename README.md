@@ -82,7 +82,7 @@
  ---
 
  🏆GitHub Trophies:
- <p>[![trophy](https://github-profile-trophy.vercel.app/?username=joshi28mohit&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)</p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=joshi28mohit&theme=matrix)](https://github.com/ryo-ma/github-profile-trophy)
  
 
 
