@@ -23,7 +23,6 @@
 ---
 
 ### :woman_technologist: About Me :
--
 
 - 🙍‍♂️I am Currently Pursuing my BTech in ECE from National Institute of Technology Sikkim
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Mohit-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mohit-joshi-38a683243/)
@@ -31,7 +30,6 @@
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
--
 
 <h3>👨‍💻 Languages</h3>
  <p>
@@ -62,8 +60,6 @@
 ---
 
 ### :fire: GitHub Stats :
--
-
  <h3>🔥 Streak Stats</h3>
  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
      <p>
