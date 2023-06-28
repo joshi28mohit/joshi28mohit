@@ -78,6 +78,11 @@
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
      <img alt="Mohit Joshi's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=joshi28mohit&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true">
  </a>
+
+ ---
+
+ 🏆GitHub Trophies:
+ <p>[![trophy](https://github-profile-trophy.vercel.app/?username=joshi28mohit&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)</p>
  
 
 
