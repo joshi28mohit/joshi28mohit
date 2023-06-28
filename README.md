@@ -23,6 +23,7 @@
 ---
 
 ### :woman_technologist: About Me :
+--
 
 - 🙍‍♂️I am Currently Pursuing my BTech in ECE from National Institute of Technology Sikkim
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Mohit-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mohit-joshi-38a683243/)
@@ -30,8 +31,10 @@
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
+--
 
 <h3>👨‍💻 Languages</h3>
+-
  <p>
   <a href="#"><img alt="C" src="https://camo.githubusercontent.com/c1b36a4d54471f80468038b676fdc6c4a9c93e9728864c0019cdc8fb49e870f0/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f312f31382f435f50726f6772616d6d696e675f4c616e67756167652e7376672f36393570782d435f50726f6772616d6d696e675f4c616e67756167652e7376672e706e67" width="35"></a>
   <a href="#"><img alt="HTML" src="https://camo.githubusercontent.com/c8bdbe3672d30538a6f42f1e3f6cfdf09a4b3e33e9814d973d9030d06384761d/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3531322f3138362f3138363332302e706e67" width="35"></a>
@@ -40,6 +43,7 @@
    <a href="#"><img alt="Php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></a>
  </p>
  <h3>🧰 Frameworks and Tools</h3>
+ -
  <p>
   <a href="#"><img alt="Bootstrap" src="https://camo.githubusercontent.com/5a3e9f617a51fa1e3885992f840d4f1097e188a6686338232c5958e380df554e/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3531322f353936382f353936383637322e706e67" width="35"></a>
   <a href="#"><img alt="MySQL" src="https://camo.githubusercontent.com/0539a58c3481ceb49fda9355c53c6dfedea901fc30ccc22676a702844a59d9d7/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3531322f3931392f3931393833362e706e67" width="35"></a>
@@ -49,6 +53,7 @@
  </p>
 
   <h3>✏️ Designing Tools</h3>
+  -
   <p>
     <a href="#"><img alt="Photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"></a>
      <a href="#"><img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"></a>
@@ -60,8 +65,10 @@
 ---
 
 ### :fire: GitHub Stats :
+--
 
  <h3>🔥 Streak Stats</h3>
+ -
  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
      <p>
          <img src="https://streak-stats.demolab.com?user=joshi28mohit&theme=monokai-metallian&mode=weekly&fire=DD2727">
@@ -69,6 +76,7 @@
  </a>
 
 <h3>💻 GitHub Profile Stats</h3>
+-
  <a href="https://github.com/anuraghazra/github-readme-stats">
      <img alt="Mohit Joshi's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=joshi28mohit&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px">
  </a>
@@ -76,15 +84,20 @@
      <img alt="Mohit Joshi's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshi28mohit&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px">
  </a> -->
  
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+  <!--<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
      <img alt="Mohit Joshi's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=joshi28mohit&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true">
- </a>
+ </a>-->
+ 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joshi28mohit&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
  ---
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joshi28mohit&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+ 
  🏆GitHub Trophies:
- -
+ --
 [![trophy](https://github-profile-trophy.vercel.app/?username=joshi28mohit&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+---
  
 
 
