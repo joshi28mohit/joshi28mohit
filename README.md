@@ -93,6 +93,9 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=joshi28mohit&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
+ 🏆Badges
+ [![An image of @joshi28mohit's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/joshi28mohit)](https://holopin.io/@joshi28mohit)
+
 
 ---
  
