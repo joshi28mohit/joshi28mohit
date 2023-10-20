@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="100"/>
   <br>
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Condensed&weight=500&size=25&duration=4000&pause=500&color=EB5775&center=true&vCenter=true&width=550&lines=Hi%2C+I+am+Mohit+Joshi;I+am+glad+that+you+are+here!;Kindly+find+the+skills+and+projects+I+have+here+!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Condensed&weight=500&size=25&duration=4000&pause=500&color=EB5775&center=true&vCenter=true&width=550&lines=Hi%2C+I+am+Mohit+Joshi;I+am+glad+that+you+are+here!;Here+you+can+find+the+skills+and+projects+that+I+have+!" alt="Typing SVG" />
   <div id="badges">
   <a href="https://www.linkedin.com/in/mohit-joshi-38a683243/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
