@@ -87,7 +87,7 @@
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joshi28mohit&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
  ---
- ![Leetcode Stats](https://leetcard.jacoblin.cool/joshi28mohit)
+ ![Leetcode Stats](https://leetcard.jacoblin.cool/_mohitjoshi1702_)
  ---
  
  🏆GitHub Trophies:
