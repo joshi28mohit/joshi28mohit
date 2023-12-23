@@ -1,14 +1,5 @@
 <div id="header" align="center">
   <div id="badges">
-  <a href="https://www.linkedin.com/in/mohit-joshi-38a683243/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://www.youtube.com/channel/UCmCoaiOwQT47DUIDJssSePw">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-  </a>
 </div>
   <img src="https://komarev.com/ghpvc/?username=joshi28mohit&style=flat-square&color=blue" alt=""/>
   <h1>
