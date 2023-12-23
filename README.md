@@ -11,7 +11,8 @@
 
 async function introduction(req, res){
     req.giveIntro = ["name", "interest", "department", "college"];
-    return res.status(HELLO_EVERYONE).json({
+    process.stdout.write("Hello Everyone" + '\n');
+    return res.status(207).json({
         name: "Mohit Joshi",
         interest: "Web Development(BackEnd & FrontEnd)",
         college: "National Institute of Technology Sikkim",
