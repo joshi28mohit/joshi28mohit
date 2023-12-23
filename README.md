@@ -6,16 +6,26 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
+<div>
+  async function introduction(req, res){
+    req.giveIntro = ["name", "interest", "department", "college"];
+    return res.status(HELLO_EVERYONE).json({
+        name: "Mohit Joshi",
+        interest: "Web Development(BackEnd & FrontEnd)",
+        college: "National Institute of Technology Sikkim",
+        linkdein: "https://www.linkedin.com/in/mohit-joshi-38a683243/",
+        portfolio: "https://joshi28mohit.github.io/mohitportfolio/",
+        mail_id: "mohitjoshi2808@gmail.com"
+    });
+}
+
+module.exports = {
+    introduction
+}
+</div>
 
 ---
-
-### :woman_technologist: About Me :
-
-- 🙍‍♂️I am Currently Pursuing my BTech in ECE from National Institute of Technology Sikkim
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Mohit-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mohit-joshi-38a683243/)
-
 ---
-
 ### :hammer_and_wrench: Languages and Tools :
 
 <h3>👨‍💻 Languages</h3>
