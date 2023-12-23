@@ -6,8 +6,8 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
+```
 <div>
----
   async function introduction(req, res){
     req.giveIntro = ["name", "interest", "department", "college"];
     return res.status(HELLO_EVERYONE).json({
@@ -23,9 +23,9 @@
 module.exports = {
     introduction
 }
-
 </div>
----
+```
+
 ### :hammer_and_wrench: Languages and Tools :
 
 <h3>👨‍💻 Languages</h3>
