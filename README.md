@@ -10,16 +10,16 @@
 ```javascript
 
 async function introduction(req, res){
-    req.giveIntro = ["name", "interest", "department", "college"];
+    req.giveIntro = ["name", "interest", "college", "contact_information"];
     process.stdout.write("Hello Everyone" + '\n');
     return res.status(207).json(
 {
-        name: "Mohit Joshi",
-        interest: "Web Development(BackEnd & FrontEnd)",
-        college: "National Institute of Technology Sikkim",
-        linkdein: "https://www.linkedin.com/in/mohit-joshi-38a683243/",
-        portfolio: "https://joshi28mohit.github.io/mohitportfolio/",
-        mail_id: "mohitjoshi2808@gmail.com"
+        name : "Mohit Joshi",
+        interest : "Web Development(BackEnd & FrontEnd)",
+        college : "National Institute of Technology Sikkim",
+        linkdein : "https://www.linkedin.com/in/mohit-joshi-38a683243/",
+        portfolio : "https://joshi28mohit.github.io/mohitportfolio/",
+        mail_id : "mohitjoshi2808@gmail.com"
     }
 )}
 
