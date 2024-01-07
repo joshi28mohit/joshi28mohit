@@ -7,7 +7,7 @@
 </h1>
 </div>
 
-```ruby
+```python
 
 async function introduction(req, res){
     req.giveIntro = ["name", "interest", "college", "contact_information"];
