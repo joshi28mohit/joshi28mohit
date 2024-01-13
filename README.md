@@ -31,16 +31,36 @@ module.exports = {
 
 ## Programming and Scripting Langauges
 
-<img src="https://raw.githubusercontent.com/mo-jo-dev/mo-jo-dev/master/icons/c/c-original.svg" alt="c" width="35" height="35"/> <img src="https://raw.githubusercontent.com/mo-jo-dev/mo-jo-dev/master/icons/cplusplus/cplusplus-line.svg" alt="c++" width="35" height="35"/> 
-<img src="https://raw.githubusercontent.com/mo-jo-dev/mo-jo-dev/master/icons/java/java-original.svg" alt="java" width="35" height="35"/> <img src="https://raw.githubusercontent.com/mo-jo-dev/mo-jo-dev/master/icons/python/python-original.svg" alt="python" width="35" height="35"/> <img src="https://raw.githubusercontent.com/mo-jo-dev/mo-jo-dev/master/icons/javascript/javascript-original.svg" alt="javascript" width="35" height="35"/> <img src="https://raw.githubusercontent.com/mo-jo-dev/mo-jo-dev/master/icons/typescript/typescript-plain.svg" alt="typescript" width="35" height="35"/> <img src="https://raw.githubusercontent.com/mo-jo-dev/mo-jo-dev/master/icons/php/php-original.svg" alt="php" width="35" height="35"/> <img src="https://raw.githubusercontent.com/mo-jo-dev/mo-jo-dev/master/icons/html5/html5-original.svg" alt="html5" width="35" height="35"/> <img src="https://raw.githubusercontent.com/mo-jo-dev/mo-jo-dev/master/icons/css3/css3-original.svg" alt="css3" width="35" height="35"/>
+<img src="https://raw.githubusercontent.com/mo-jo-dev/mo-jo-dev/master/icons/c/c-original.svg" alt="c" width="35" height="35"/> 
+<img src="https://raw.githubusercontent.com/mo-jo-dev/mo-jo-dev/master/icons/cplusplus/cplusplus-line.svg" alt="c++" width="35" height="35"/> 
+<img src="https://raw.githubusercontent.com/mo-jo-dev/mo-jo-dev/master/icons/java/java-original.svg" alt="java" width="35" height="35"/> 
+<!-- <img src="https://raw.githubusercontent.com/mo-jo-dev/mo-jo-dev/master/icons/python/python-original.svg" alt="python" width="35" height="35"/>  -->
+<img src="https://raw.githubusercontent.com/mo-jo-dev/mo-jo-dev/master/icons/javascript/javascript-original.svg" alt="javascript" width="35" height="35"/> 
+<!-- <img src="https://raw.githubusercontent.com/mo-jo-dev/mo-jo-dev/master/icons/typescript/typescript-plain.svg" alt="typescript" width="35" height="35"/>  -->
+<img src="https://raw.githubusercontent.com/mo-jo-dev/mo-jo-dev/master/icons/php/php-original.svg" alt="php" width="35" height="35"/> 
+<img src="https://raw.githubusercontent.com/mo-jo-dev/mo-jo-dev/master/icons/html5/html5-original.svg" alt="html5" width="35" height="35"/> 
+<img src="https://raw.githubusercontent.com/mo-jo-dev/mo-jo-dev/master/icons/css3/css3-original.svg" alt="css3" width="35" height="35"/>
 
 ## Tools & Frameworks
 
-<img src="https://raw.githubusercontent.com/mo-jo-dev/mo-jo-dev/master/icons/visualstudio/visualstudio-code-plain.svg" alt="vscode" width="35" height="35"/> <img src="https://raw.githubusercontent.com/mo-jo-dev/mo-jo-dev/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="35" height="35"/> <img src="https://raw.githubusercontent.com/mo-jo-dev/mo-jo-dev/master/icons/mysql/mysql-original.svg" alt="mysql" width="35" height="35"/> <img src="https://raw.githubusercontent.com/mo-jo-dev/mo-jo-dev/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="35" height="35"/> <img src="https://raw.githubusercontent.com/mo-jo-dev/mo-jo-dev/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="35" height="35"/> <img src="https://raw.githubusercontent.com/mo-jo-dev/mo-jo-dev/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="35" height="35"/>
-<img src="https://raw.githubusercontent.com/mo-jo-dev/mo-jo-dev/master/icons/reactjs/react-original.svg" alt="react" width="35" height="35"/> <img src="https://raw.githubusercontent.com/mo-jo-dev/mo-jo-dev/master/icons/material-ui/materialui-original.svg" alt="material-ui" width="35" height="35"/> 
-<img src="https://raw.githubusercontent.com/mo-jo-dev/mo-jo-dev/master/icons/express-js/express-original-wordmark.svg" alt="express" width="35" height="35"/> <img src="https://raw.githubusercontent.com/mo-jo-dev/mo-jo-dev/master/icons/electron/electron-original.svg" alt="electron" width="35" height="35"/> 
- <img src="https://raw.githubusercontent.com/mo-jo-dev/mo-jo-dev/master/icons/jquery/jquery-original.svg" alt="jquery" width="35" height="35"/>
-<img src="https://raw.githubusercontent.com/mo-jo-dev/mo-jo-dev/master/icons/composer/composer-line-wordmark.svg" alt="composer" width="35" height="35"/> <img src="https://raw.githubusercontent.com/mo-jo-dev/mo-jo-dev/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="35" height="35"/> <img src="https://raw.githubusercontent.com/mo-jo-dev/mo-jo-dev/master/icons/codeigniter/codeigniter-plain-wordmark.svg" alt="codeigniter" width="35" height="35"/> <img src="https://raw.githubusercontent.com/mo-jo-dev/mo-jo-dev/master/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="35" height="35"/> <img src="https://raw.githubusercontent.com/mo-jo-dev/mo-jo-dev/master/icons/git/git-original.svg" alt="git" width="35" height="35"/> <img src="https://raw.githubusercontent.com/mo-jo-dev/mo-jo-dev/master/icons/github/github-original.svg" alt="git" width="35" height="35"/>
+<img src="https://raw.githubusercontent.com/mo-jo-dev/mo-jo-dev/master/icons/visualstudio/visualstudio-code-plain.svg" alt="vscode" width="35" height="35"/>
+<img src="https://raw.githubusercontent.com/mo-jo-dev/mo-jo-dev/master/icons/intellij/intellij-plain.svg" alt="intellij" width="35" height="35"/> 
+<img src="https://raw.githubusercontent.com/mo-jo-dev/mo-jo-dev/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="35" height="35"/> 
+<img src="https://raw.githubusercontent.com/mo-jo-dev/mo-jo-dev/master/icons/mysql/mysql-original.svg" alt="mysql" width="35" height="35"/> 
+<!-- <img src="https://raw.githubusercontent.com/mo-jo-dev/mo-jo-dev/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="35" height="35"/>  -->
+<img src="https://raw.githubusercontent.com/mo-jo-dev/mo-jo-dev/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="35" height="35"/> 
+<img src="https://raw.githubusercontent.com/mo-jo-dev/mo-jo-dev/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="35" height="35"/>
+<!-- <img src="https://raw.githubusercontent.com/mo-jo-dev/mo-jo-dev/master/icons/reactjs/react-original.svg" alt="react" width="35" height="35"/>  -->
+<!-- <img src="https://raw.githubusercontent.com/mo-jo-dev/mo-jo-dev/master/icons/material-ui/materialui-original.svg" alt="material-ui" width="35" height="35"/>  -->
+<img src="https://raw.githubusercontent.com/mo-jo-dev/mo-jo-dev/master/icons/express-js/express-original-wordmark.svg" alt="express" width="35" height="35"/> 
+<!-- <img src="https://raw.githubusercontent.com/mo-jo-dev/mo-jo-dev/master/icons/electron/electron-original.svg" alt="electron" width="35" height="35"/>  -->
+<!-- <img src="https://raw.githubusercontent.com/mo-jo-dev/mo-jo-dev/master/icons/jquery/jquery-original.svg" alt="jquery" width="35" height="35"/> -->
+<!-- <img src="https://raw.githubusercontent.com/mo-jo-dev/mo-jo-dev/master/icons/composer/composer-line-wordmark.svg" alt="composer" width="35" height="35"/>  -->
+<!-- <img src="https://raw.githubusercontent.com/mo-jo-dev/mo-jo-dev/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="35" height="35"/>  -->
+<!-- <img src="https://raw.githubusercontent.com/mo-jo-dev/mo-jo-dev/master/icons/codeigniter/codeigniter-plain-wordmark.svg" alt="codeigniter" width="35" height="35"/>  -->
+<!-- <img src="https://raw.githubusercontent.com/mo-jo-dev/mo-jo-dev/master/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="35" height="35"/>  -->
+<img src="https://raw.githubusercontent.com/mo-jo-dev/mo-jo-dev/master/icons/git/git-original.svg" alt="git" width="35" height="35"/> 
+<img src="https://raw.githubusercontent.com/mo-jo-dev/mo-jo-dev/master/icons/github/github-original.svg" alt="git" width="35" height="35"/>
 
 ## Designing Tools
 
@@ -50,11 +70,11 @@ module.exports = {
 
 ## Find me here 
 
-<a href="http://website-mo-jo-dev.vercel.app/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/mo-jo-dev/mo-jo-dev/master/icons/chrome/chrome-original.svg" alt="mo-jo-dev" height="35" width="35" /></a>
-<a href="https://www.linkedin.com/in/mo-jo-dev/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/mo-jo-dev/mo-jo-dev/master/icons/linkedin/linkedin-original.svg" alt="mo-jo-dev" height="35" width="35" /></a>
-<a href="https://www.facebook.com/mo-jo-dev" target="_blank"><img align="center" src="https://raw.githubusercontent.com/mo-jo-dev/mo-jo-dev/master/icons/facebook/facebook-original.svg" alt="mo-jo-dev" height="35" width="35" /></a>
-<a href="https://stackoverflow.com/users/11625355/mo-jo-dev" target="_blank"><img align="center" src="https://raw.githubusercontent.com/mo-jo-dev/mo-jo-dev/master/icons/stackoverflow/stackoverflow-original.svg" alt="mo-jo-dev" height="35" width="35" /></a>
-<a href="https://www.hackerrank.com/mo-jo-dev" target="_blank"><img align="center" src="https://raw.githubusercontent.com/mo-jo-dev/mo-jo-dev/master/icons/hackerrank/hackerrank-original.svg" alt="mo-jo-dev" height="35" width="35" /></a>
+<a href="http://https://mo-jo-dev.github.io/mohitportfolio/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/mo-jo-dev/mo-jo-dev/master/icons/chrome/chrome-original.svg" alt="mo-jo-dev" height="35" width="35" /></a>
+<a href="https://www.linkedin.com/in/mohit-joshi-38a683243/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/mo-jo-dev/mo-jo-dev/master/icons/linkedin/linkedin-original.svg" alt="mo-jo-dev" height="35" width="35" /></a>
+<!-- <a href="https://www.facebook.com/mo-jo-dev" target="_blank"><img align="center" src="https://raw.githubusercontent.com/mo-jo-dev/mo-jo-dev/master/icons/facebook/facebook-original.svg" alt="mo-jo-dev" height="35" width="35" /></a> -->
+<!-- <a href="https://stackoverflow.com/users/11625355/mo-jo-dev" target="_blank"><img align="center" src="https://raw.githubusercontent.com/mo-jo-dev/mo-jo-dev/master/icons/stackoverflow/stackoverflow-original.svg" alt="mo-jo-dev" height="35" width="35" /></a> -->
+<a href="https://www.hackerrank.com/profile/mo_jo_dev" target="_blank"><img align="center" src="https://raw.githubusercontent.com/mo-jo-dev/mo-jo-dev/master/icons/hackerrank/hackerrank-original.svg" alt="mo-jo-dev" height="35" width="35" /></a>
 <a href="https://leetcode.com/mo-jo-dev/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/mo-jo-dev/mo-jo-dev/master/icons/leetcode/leetcode-iconscout-icon54.svg" alt="mo-jo-dev" height="35" width="35" /></a>
 
 <br />
@@ -62,7 +82,7 @@ module.exports = {
  
 ---
 
-### :fire: GitHub Stats :
+## GitHub Stats :
  <h3>🔥 Streak Stats</h3>
  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
      <p>
