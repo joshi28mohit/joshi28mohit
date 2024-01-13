@@ -37,24 +37,16 @@ module.exports = {
 
 ## Tools & Frameworks
 
-<img src="https://raw.githubusercontent.com/mo-jo-dev/mo-jo-dev/master/icons/visualstudio/visualstudio-code-plain.svg" alt="vscode" width="35" height="35"/>
-<img src="https://raw.githubusercontent.com/mo-jo-dev/mo-jo-dev/master/icons/intellij/intellij-plain.svg" alt="intellij" width="35" height="35"/> 
-<img src="https://raw.githubusercontent.com/mo-jo-dev/mo-jo-dev/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="35" height="35"/> 
-<img src="https://raw.githubusercontent.com/mo-jo-dev/mo-jo-dev/master/icons/mysql/mysql-original.svg" alt="mysql" width="35" height="35"/> 
+<img src="https://raw.githubusercontent.com/mo-jo-dev/mo-jo-dev/master/icons/visualstudio/visualstudio-code-plain.svg" alt="vscode" width="35" height="35"/> <img src="https://raw.githubusercontent.com/mo-jo-dev/mo-jo-dev/master/icons/intellij/intellij-plain.svg" alt="intellij" width="35" height="35"/> <img src="https://raw.githubusercontent.com/mo-jo-dev/mo-jo-dev/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="35" height="35"/> <img src="https://raw.githubusercontent.com/mo-jo-dev/mo-jo-dev/master/icons/mysql/mysql-original.svg" alt="mysql" width="35" height="35"/> <img src="https://raw.githubusercontent.com/mo-jo-dev/mo-jo-dev/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="35" height="35"/> <img src="https://raw.githubusercontent.com/mo-jo-dev/mo-jo-dev/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="35" height="35"/> <img src="https://raw.githubusercontent.com/mo-jo-dev/mo-jo-dev/master/icons/express-js/express-original-wordmark.svg" alt="express" width="35" height="35"/> <img src="https://raw.githubusercontent.com/mo-jo-dev/mo-jo-dev/master/icons/git/git-original.svg" alt="git" width="35" height="35"/> <img src="https://raw.githubusercontent.com/mo-jo-dev/mo-jo-dev/master/icons/github/github-original.svg" alt="git" width="35" height="35"/>
 <!-- <img src="https://raw.githubusercontent.com/mo-jo-dev/mo-jo-dev/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="35" height="35"/>  -->
-<img src="https://raw.githubusercontent.com/mo-jo-dev/mo-jo-dev/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="35" height="35"/> 
-<img src="https://raw.githubusercontent.com/mo-jo-dev/mo-jo-dev/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="35" height="35"/>
 <!-- <img src="https://raw.githubusercontent.com/mo-jo-dev/mo-jo-dev/master/icons/reactjs/react-original.svg" alt="react" width="35" height="35"/>  -->
 <!-- <img src="https://raw.githubusercontent.com/mo-jo-dev/mo-jo-dev/master/icons/material-ui/materialui-original.svg" alt="material-ui" width="35" height="35"/>  -->
-<img src="https://raw.githubusercontent.com/mo-jo-dev/mo-jo-dev/master/icons/express-js/express-original-wordmark.svg" alt="express" width="35" height="35"/> 
 <!-- <img src="https://raw.githubusercontent.com/mo-jo-dev/mo-jo-dev/master/icons/electron/electron-original.svg" alt="electron" width="35" height="35"/>  -->
 <!-- <img src="https://raw.githubusercontent.com/mo-jo-dev/mo-jo-dev/master/icons/jquery/jquery-original.svg" alt="jquery" width="35" height="35"/> -->
 <!-- <img src="https://raw.githubusercontent.com/mo-jo-dev/mo-jo-dev/master/icons/composer/composer-line-wordmark.svg" alt="composer" width="35" height="35"/>  -->
 <!-- <img src="https://raw.githubusercontent.com/mo-jo-dev/mo-jo-dev/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="35" height="35"/>  -->
 <!-- <img src="https://raw.githubusercontent.com/mo-jo-dev/mo-jo-dev/master/icons/codeigniter/codeigniter-plain-wordmark.svg" alt="codeigniter" width="35" height="35"/>  -->
 <!-- <img src="https://raw.githubusercontent.com/mo-jo-dev/mo-jo-dev/master/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="35" height="35"/>  -->
-<img src="https://raw.githubusercontent.com/mo-jo-dev/mo-jo-dev/master/icons/git/git-original.svg" alt="git" width="35" height="35"/> 
-<img src="https://raw.githubusercontent.com/mo-jo-dev/mo-jo-dev/master/icons/github/github-original.svg" alt="git" width="35" height="35"/>
 
 ## Designing Tools
 
