@@ -31,15 +31,9 @@ module.exports = {
 
 ## Programming and Scripting Langauges
 
-<img src="https://raw.githubusercontent.com/mo-jo-dev/mo-jo-dev/master/icons/c/c-original.svg" alt="c" width="35" height="35"/> 
-<img src="https://raw.githubusercontent.com/mo-jo-dev/mo-jo-dev/master/icons/cplusplus/cplusplus-line.svg" alt="c++" width="35" height="35"/> 
-<img src="https://raw.githubusercontent.com/mo-jo-dev/mo-jo-dev/master/icons/java/java-original.svg" alt="java" width="35" height="35"/> 
+<img src="https://raw.githubusercontent.com/mo-jo-dev/mo-jo-dev/master/icons/c/c-original.svg" alt="c" width="35" height="35"/> <img src="https://raw.githubusercontent.com/mo-jo-dev/mo-jo-dev/master/icons/cplusplus/cplusplus-line.svg" alt="c++" width="35" height="35"/> <img src="https://raw.githubusercontent.com/mo-jo-dev/mo-jo-dev/master/icons/java/java-original.svg" alt="java" width="35" height="35"/> <img src="https://raw.githubusercontent.com/mo-jo-dev/mo-jo-dev/master/icons/javascript/javascript-original.svg" alt="javascript" width="35" height="35"/> <img src="https://raw.githubusercontent.com/mo-jo-dev/mo-jo-dev/master/icons/php/php-original.svg" alt="php" width="35" height="35"/> <img src="https://raw.githubusercontent.com/mo-jo-dev/mo-jo-dev/master/icons/html5/html5-original.svg" alt="html5" width="35" height="35"/> <img src="https://raw.githubusercontent.com/mo-jo-dev/mo-jo-dev/master/icons/css3/css3-original.svg" alt="css3" width="35" height="35"/>
 <!-- <img src="https://raw.githubusercontent.com/mo-jo-dev/mo-jo-dev/master/icons/python/python-original.svg" alt="python" width="35" height="35"/>  -->
-<img src="https://raw.githubusercontent.com/mo-jo-dev/mo-jo-dev/master/icons/javascript/javascript-original.svg" alt="javascript" width="35" height="35"/> 
 <!-- <img src="https://raw.githubusercontent.com/mo-jo-dev/mo-jo-dev/master/icons/typescript/typescript-plain.svg" alt="typescript" width="35" height="35"/>  -->
-<img src="https://raw.githubusercontent.com/mo-jo-dev/mo-jo-dev/master/icons/php/php-original.svg" alt="php" width="35" height="35"/> 
-<img src="https://raw.githubusercontent.com/mo-jo-dev/mo-jo-dev/master/icons/html5/html5-original.svg" alt="html5" width="35" height="35"/> 
-<img src="https://raw.githubusercontent.com/mo-jo-dev/mo-jo-dev/master/icons/css3/css3-original.svg" alt="css3" width="35" height="35"/>
 
 ## Tools & Frameworks
 
