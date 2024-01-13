@@ -56,12 +56,9 @@ module.exports = {
 
 ## Find me here 
 
-<a href="http://https://mo-jo-dev.github.io/mohitportfolio/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/mo-jo-dev/mo-jo-dev/master/icons/chrome/chrome-original.svg" alt="mo-jo-dev" height="35" width="35" /></a>
-<a href="https://www.linkedin.com/in/mohit-joshi-38a683243/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/mo-jo-dev/mo-jo-dev/master/icons/linkedin/linkedin-original.svg" alt="mo-jo-dev" height="35" width="35" /></a>
+<a href="http://mo-jo-dev.github.io/mohitportfolio/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/mo-jo-dev/mo-jo-dev/master/icons/chrome/chrome-original.svg" alt="mo-jo-dev" height="35" width="35" /></a> <a href="https://www.linkedin.com/in/mohit-joshi-38a683243/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/mo-jo-dev/mo-jo-dev/master/icons/linkedin/linkedin-original.svg" alt="mo-jo-dev" height="35" width="35" /></a> <a href="https://www.hackerrank.com/profile/mo_jo_dev" target="_blank"><img align="center" src="https://raw.githubusercontent.com/mo-jo-dev/mo-jo-dev/master/icons/hackerrank/hackerrank-original.svg" alt="mo-jo-dev" height="35" width="35" /></a> <a href="https://leetcode.com/mo-jo-dev/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/mo-jo-dev/mo-jo-dev/master/icons/leetcode/leetcode-iconscout-icon54.svg" alt="mo-jo-dev" height="35" width="35" /></a>
 <!-- <a href="https://www.facebook.com/mo-jo-dev" target="_blank"><img align="center" src="https://raw.githubusercontent.com/mo-jo-dev/mo-jo-dev/master/icons/facebook/facebook-original.svg" alt="mo-jo-dev" height="35" width="35" /></a> -->
 <!-- <a href="https://stackoverflow.com/users/11625355/mo-jo-dev" target="_blank"><img align="center" src="https://raw.githubusercontent.com/mo-jo-dev/mo-jo-dev/master/icons/stackoverflow/stackoverflow-original.svg" alt="mo-jo-dev" height="35" width="35" /></a> -->
-<a href="https://www.hackerrank.com/profile/mo_jo_dev" target="_blank"><img align="center" src="https://raw.githubusercontent.com/mo-jo-dev/mo-jo-dev/master/icons/hackerrank/hackerrank-original.svg" alt="mo-jo-dev" height="35" width="35" /></a>
-<a href="https://leetcode.com/mo-jo-dev/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/mo-jo-dev/mo-jo-dev/master/icons/leetcode/leetcode-iconscout-icon54.svg" alt="mo-jo-dev" height="35" width="35" /></a>
 
 <br />
   
