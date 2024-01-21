@@ -2,7 +2,7 @@
   <img align="left" src="https://komarev.com/ghpvc/?username=joshi28mohit&style=flat-square&color=blue" alt=""/>
   <br> 
   <h1>
-  hey there!!
+  hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
