@@ -1,5 +1,4 @@
 <div>
-  <h1>Hello</h1>
 </div>
   <div id="header" align="center">
   <img align="left" src="https://komarev.com/ghpvc/?username=joshi28mohit&style=flat-square&color=blue" alt=""/>
