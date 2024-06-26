@@ -15,7 +15,7 @@ async function introduction(req, res){
     return res.status(207).json(
 {
         name : "Mohit Joshi",
-        interest : "Web Development(BackEnd & FrontEnd), Machine Learning, Problem Solving",
+        interest : "Web Development(BackEnd & FrontEnd), Machine Learning, Problem Solving"
         college : "National Institute of Technology Sikkim",
         linkdein : "https://www.linkedin.com/in/mohit-joshi-38a683243/",
         portfolio : "https://joshi28mohit.github.io/mohitportfolio/",
