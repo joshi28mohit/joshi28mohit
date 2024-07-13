@@ -83,7 +83,7 @@ module.exports = {
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mo-jo-dev&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
  ---
- ![Leetcode Stats](https://leetcard.jacoblin.cool/mo-jo-dev)
+ ![Leetcode Stats](https://leetcard.jacoblin.cool/_mojo_)
  ---
  
  🏆GitHub Trophies:
